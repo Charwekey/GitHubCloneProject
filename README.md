@@ -1,1 +1,2 @@
-"Modification in main branch"
+Objective: Practice branching, merging, and resolving conflicts.
+Modification in main branch.
